@@ -1,3 +1,4 @@
-# YAJUR
-The only AI-powered Quantum Code and Circuit Generator.
-![image](https://github.com/user-attachments/assets/f17f0dba-27a0-4829-a723-a323b690f20a)
+# ATHARVA
+The only AI-powered Quantum Error Checker
+![image](https://github.com/user-attachments/assets/30a692dd-e008-4aeb-8dee-bbf32c4e621a)
+
